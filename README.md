@@ -73,9 +73,17 @@ Or switch it from inside OpenCode with `/theme`.
 
 ---
 
-## Note
+## The Leenium Ecosystem
 
-OpenCode's custom theme support is currently for the TUI, not the desktop GUI.
+Leenium is a unified dark desktop environment built around the same color palette. Alongside this Waybar theme, the project ships matching configs for:
+
+- [**VS Code**](github.com/drunkleen/leenium.vscode) - editor theme and UI palette
+- [**Neovim**](github.com/drunkleen/leenium.nvim) - syntax highlights and UI elements
+- [**Firefox**](github.com/drunkleen/leenium.firefox) - browser theme extension
+- [**OpenCode**](github.com/drunkleen/leenium.opencode) - terminal-first theme
+- [**Omarchy**](github.com/drunkleen/leenium.omarchy) - desktop theme bundle
+
+Visit [github.com/drunkleen](https://github.com/drunkleen) or [leenium.drunkleen.com](https://leenium.drunkleen.com/) to explore the full setup.
 
 ---
 
